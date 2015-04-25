@@ -1,0 +1,12 @@
+git add <file> adds any changes inside <file> to the staging area
+git commit -m '<message>' commits sthe staging area to the repository with a message about what changed
+git log shows the git history of changes
+git branch <branch-name> creates a new branch
+git branch lists branches
+git checkout <branch-name> to change branches
+git status lists all new or modified files
+git merge combines two different branches (or one branch into the master)
+git init [project-name] creates a new local repository
+git clone [url] downloads a project
+git push [alias] [branch] uploads all local branches to remote repository
+git pull downloads history
