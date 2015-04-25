@@ -9,5 +9,5 @@ cat <file> display file contents
 grep <file> search contents of files
 ls -r list reverse
 subl open in sublime
-
+hidden file start with .
 
